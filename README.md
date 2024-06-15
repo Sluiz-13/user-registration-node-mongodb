@@ -3,8 +3,8 @@
 Este é um projeto de exemplo para um sistema de cadastro de usuários utilizando Node.js para o backend, MongoDB como banco de dados, Express como framework web e Prisma Client para ORM.
 
 ## Instalação 
-1. Faça o clone do repositorio 
-.git clone https://github.com/Sluiz-13/user-registration-node-mongodb.git
+1. Faça o clone do repositorio <br>
+git clone https://github.com/Sluiz-13/user-registration-node-mongodb.git
 
 2. Instale as dependencias 
 
