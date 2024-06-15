@@ -4,7 +4,7 @@ Este é um projeto de exemplo para um sistema de cadastro de usuários utilizand
 
 ## Instalação 
 1. Faça o clone do repositorio 
-git clone https://github.com/Sluiz-13/user-registration-node-mongodb.git
+.git clone https://github.com/Sluiz-13/user-registration-node-mongodb.git
 
 2. Instale as dependencias 
 
